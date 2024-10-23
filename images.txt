@@ -1,1 +1,2 @@
-momaek/case-server:v1.0.7-amd64
+alpin
+nginx:1.27.2-perl
