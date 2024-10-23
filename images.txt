@@ -1,2 +1,2 @@
-alpin
-nginx:1.27.2-perl
+alpine
+nginx:1.27.2
