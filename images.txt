@@ -1,2 +1,5 @@
-alpine
-nginx:1.27.2
+sonicorg/sonic-server-eureka:v2.7.1
+sonic-server-gateway:v2.7.1
+sonic-server-controller:v2.7.1
+sonic-server-folder:v2.7.1
+sonic-client-web:v2.7.1
